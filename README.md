@@ -1,13 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge
 =============================================================================================================================
 
-SQA Engineer
+Software QA Engineer
 ------------
 
-I am an IT analyst with over 10 years of SQE experience. I have worked in consulting companies providing services to large clients in the areas of health, banking, treasury, travel and e-learning among others, working in different areas of quality control, mainly as a functional and automation analyst. During my career in Quality Assurance, I have generated a great focus on the client, identifying processes that help to achieve the necessary objectives; I know that the client's business comes first; I spend a lot of time understanding customer needs to suggest ideas and improvements. In addition, I have comprehensive technical expertise, including software development experience and QA automation tools, testing techniques, experience with relational databases, and test automation processes. My main tech stack for front end automation is Java+Selenium and TypeScript+Cypress, technologies I’ve used on several occasions to create automation frameworks from scratch.
+I am an IT analyst with over 10 years of SQE experience. I have worked in consulting companies providing services to large clients in the areas of health, banking, treasury, travel and e-learning among others, working in different areas of quality control, mainly as a functional and automation analyst. 
+
+During my career in Quality Assurance, I have generated a great focus on the client, identifying processes that help to achieve the necessary objectives; I know that the client's business comes first; I spend a lot of time understanding customer needs to suggest ideas and improvements. 
+
+In addition, I have comprehensive technical expertise, including software development experience and QA automation tools, testing techniques, experience with relational databases, and test automation processes. My main tech stack for front end automation is Java+Selenium and TypeScript+Cypress, technologies I’ve used on several occasions to create automation frameworks from scratch.
 
 * 🌍  I'm based in Montevideo, Uruguay
-* ✉️  You can contact me at [jorge.gonzalez.albisu@gmail.com](mailto:jorge.gonzalez.albisu@gmail.com)
+* ✉️  You can contact me at https://www.linkedin.com/in/jorgegonzalezalbisu/
 * 🧠  I'm learning Front End and Back End development
 
 ### Skills
