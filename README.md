@@ -11,7 +11,7 @@ During my career in Quality Assurance, I have generated a great focus on the cli
 In addition, I have comprehensive technical expertise, including software development experience and QA automation tools, testing techniques, experience with relational databases, and test automation processes. My main tech stack for front end automation is Java+Selenium and TypeScript+Cypress, technologies I’ve used on several occasions to create automation frameworks from scratch.
 
 * 🌍  I'm based in Montevideo, Uruguay
-* ✉️  You can contact me at https://www.linkedin.com/in/jorgegonzalezalbisu/
+* ✉️  You can contact me at my <a href="https://www.linkedin.com/in/jorgegonzalezalbisu/" target="_blank" title="LinkedIn">LinkedIn</a>
 * 🧠  I'm learning Front End and Back End development
 
 ### Skills
