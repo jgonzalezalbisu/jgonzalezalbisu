@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge
-=============================================================================================================================
+<h1 align="center">Hi 👋, I'm Jorge</h1>
+<h3 align="center">Software QA Engineer / IT Analyst</h3>
 
-Software QA Engineer
-------------
 
 Experienced IT Analyst with 10+ years of proven expertise in Software Quality Engineering (SQE) seeks to leverage a diverse background in consulting across various industries including health, banking, treasury, travel, and e-learning. Adept at delivering high-quality results as both a functional and automation analyst, I possess a strong client-centric approach, prioritizing their business objectives and investing time in understanding their needs to provide valuable ideas and enhancements.
 
