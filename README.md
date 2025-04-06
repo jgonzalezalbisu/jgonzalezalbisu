@@ -9,7 +9,7 @@ My technical proficiency extends beyond quality assurance, encompassing software
 With a track record of excellence in delivering tailored solutions and a commitment to driving client satisfaction, I am well-equipped to contribute to your organization's success in the IT industry.
 
 
-* 🌍  I'm based in Montevideo, Uruguay
+* 🌍  I'm based in Uruguay
 * ✉️  You can contact me at my <a href="https://www.linkedin.com/in/jorgegonzalezalbisu/" target="_blank" title="LinkedIn">LinkedIn</a>
 * 🧠  I'm learning Front End and Back End development
 
