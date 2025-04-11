@@ -14,7 +14,16 @@ With a track record of excellence in delivering tailored solutions and a commitm
 * 🧠  I'm learning Front End and Back End development
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mongodb,bootstrap,cs,css,cypress,docker,git,github,githubactions,html,maven,mysql,nodejs,notion,npm,postgres,postman,react,nextjs,express,selenium,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,bootstrap,nodejs,react,nextjs,express)](https://skillicons.dev)
+
+### QA
+[![My Skills](https://skillicons.dev/icons?i=cypress,selenium)](https://skillicons.dev)
+
+### DB
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,githubactions,npm,maven,postman,docker,notion)](https://skillicons.dev)
 
 ### Socials
 
