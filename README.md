@@ -14,28 +14,17 @@ With a track record of excellence in delivering tailored solutions and a commitm
 * 🧠  I'm learning Front End and Back End development
 
 ### Skills
-TEMPLATE [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mongodb,bootstrap,cs,css,cypress,docker,git,github,githubactions,html,maven,mysql,nodejs,notion,npm,postgres,postman,react,nextjs,express,selenium,ts,vscode)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mongodb,bootstrap,cs,css,cypress,docker,git,github,githubactions,html,maven,mysql,nodejs,notion,npm,postgres,postman,react,nextjs,express,selenium,ts,vscode)](https://skillicons.dev)
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/jgonzalezalbisu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jorgegonzalezalbisu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/7834959" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Snake
 
-<img src="https://raw.githubusercontent.com/jgonzalezalbisu/jgonzalezalbisu/output/snake.svg" alt="Snake animation" />
-
-### Pacman
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgonzalezalbisu/jgonzalezalbisu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jgonzalezalbisu/jgonzalezalbisu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jgonzalezalbisu/jgonzalezalbisu/output/pacman-contribution-graph.svg">
-</picture>
 
 ### Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jgonzalezalbisu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jgonzalezalbisu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
