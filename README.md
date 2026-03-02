@@ -1,30 +1,40 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">Software QA Engineer / IT Analyst</h3>
+<h3 align="center">Senior Software Quality Engineer | SDET | Full Stack Learner</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-TypeScript%20%26%20Cypress-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Background-Java%20%26%20Selenium-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Learning-Full%20Stack-success?style=for-the-badge&logo=theodinproject" />
+</p>
 
-Experienced IT Analyst with 10+ years of proven expertise in Software Quality Engineering (SQE) with a diverse background in consulting across various industries including health, banking, treasury, travel, and e-learning. Adept at delivering high-quality results as both a functional and automation analyst, I possess a strong client-centric approach, prioritizing their business objectives and investing time in understanding their needs to provide valuable ideas and enhancements.
+---
 
-My technical proficiency extends beyond quality assurance, encompassing software development and a comprehensive understanding of QA automation tools, testing techniques, relational databases, and test automation processes. Notably, I have successfully utilized Java with Selenium and TypeScript with Cypress to create robust automation frameworks from scratch, delivering efficient front-end automation solutions with the primary objective of reducing the manual labor required by the team. With a proactive mindset, I continually assess the testing landscape, identify areas where automation can be leveraged effectively, and diligently work towards creating robust frameworks that streamline repetitive tasks and increase the scalability of testing processes.
+### 🚀 About Me
+I am a **Senior Software Quality Engineer** with over 15 years of experience building automation ecosystems from the ground up. My expertise lies in bridging the gap between Quality and Development to deliver high-velocity, reliable software.
 
-With a track record of excellence in delivering tailored solutions and a commitment to driving client satisfaction, I am well-equipped to contribute to your organization's success in the IT industry.
+* 🛠️ **Current Focus:** Architecting E2E and API automation frameworks using **TypeScript, Cypress, and Playwright**.
+* 🏗️ **The Foundation:** 10+ years of experience building custom **Java/Selenium** frameworks integrated with SQL DBs and REST APIs.
+* 📈 **Efficiency:** I specialize in achieving high quality test coverage and implementing **GitHub Actions** for seamless CI/CD.
+* 🎓 **Continuous Learning:** Currently mastering Full Stack development through **The Odin Project** among other resources.
 
+---
 
-* 🌍  I'm based in Uruguay
-* ✉️  You can contact me at my <a href="https://www.linkedin.com/in/jorgegonzalezalbisu/" target="_blank" title="LinkedIn">LinkedIn</a>
-* 🧠  I'm learning Front End and Back End development
+### 🛠️ Tech Stack
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,bootstrap,nodejs,react,nextjs,express)](https://skillicons.dev)
+**Core Automation**
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cypress,selenium,postman)](https://skillicons.dev)
 
-### QA
-[![My Skills](https://skillicons.dev/icons?i=cypress,selenium)](https://skillicons.dev)
+**Development & Learning**
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,nodejs,react,nextjs,express,mongodb,mysql,postgres)](https://skillicons.dev)
 
-### DB
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+**Tools & DevOps**
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,githubactions,npm,maven,docker,notion)](https://skillicons.dev)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,githubactions,npm,maven,postman,docker,notion)](https://skillicons.dev)
+---
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/jgonzalezalbisu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jorgegonzalezalbisu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/7834959" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/jorgegonzalezalbisu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
